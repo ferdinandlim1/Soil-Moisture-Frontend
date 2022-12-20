@@ -24,7 +24,7 @@ function App() {
             <Route exact path="/detail/*" element={<Detail />} />
             <Route exact path="/dashboard/*" element={<Dashboard />} />
           </Routes>
-/*
+
       </>
 
     </div>
